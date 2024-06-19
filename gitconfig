@@ -57,8 +57,8 @@
 [pull]
   rebase = false
 [user]
-	email = Severo
-	name = Luca
+	email = luca98.severo@gmail.com
+	name = Luca Severo
 
 [init]
   defaultBranch = master
